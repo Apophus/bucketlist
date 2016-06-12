@@ -13,3 +13,4 @@ def main():
 #checks if the executed file is the main program and runs the app
 if __name__ == "__main__":
     app.run()
+
