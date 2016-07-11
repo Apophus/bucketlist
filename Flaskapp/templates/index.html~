@@ -8,8 +8,6 @@
     <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
  
     <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
-    
-    <link href="../static/css/home.css" rel="stylesheet" >
  
  
 </head>
@@ -28,7 +26,7 @@
                     </li>
                 </ul>
             </nav>
-            
+            <h3 class="text-muted">My Bucketlist</h3>
         </div>
  
         <div class="jumbotron">
@@ -40,7 +38,7 @@
  
  
         <footer class="footer">
-            <p>&copy; </p>
+            <p>&copy; Company 2015</p>
         </footer>
  
     </div>
